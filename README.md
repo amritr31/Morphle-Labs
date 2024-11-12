@@ -17,3 +17,4 @@ Python 3.x
 Flask (Install via pip install flask)
 #Deployment:
 The application is designed to be run on GitHub Codespaces, but it can also be deployed on any server that supports Python and Flask.
+![image](https://github.com/user-attachments/assets/6ec8fa77-887d-48b6-92f2-fb4dfdc04564)
